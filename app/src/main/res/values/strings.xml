@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Terminal</string>
+    <string name="app_title">Terminal</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Titulos -->
+    <string name="produtos">Produtos</string>
+    <string name="devices">Dispositivos</string>
+    <string name="favoritos">Favoritos</string>
+
+    <!-- Menu -->
+    <string name="menu_produto">Produto</string>
+    <string name="menu_logOut">Log Out</string>
+
+    <!-- MainActivity -->
+    <string name="impressora">Verificar Impressora</string>
+    <string name="conectando">conectando…</string>
+    <string name="no_connect">Sem dipositivo pareado</string>
+    <string name="btn_print">Imprimir</string>
+
+    <!-- ProdutoActivity -->
+    <string name="produto_produto">Produto</string>
+    <string name="produto_qtde">Quantidade</string>
+    <string name="produto_valor">Valor</string>
+
+    <!-- DeviceListActivity -->
+    <string name="refresh">Carregar</string>
+
+    <!-- Textos -->
+    <string name="not_connected">Sem dispositivos conectados</string>
+    <string name="vazio">Criador vazio</string>
+    <string name="no_bluetooth">Este dispositivo não suporta Bluetooth</string>
+    <string name="no_paired">Sem dipositivos pareados</string>
+    <string name="strLang">en</string>
+    <string name="bluetooth_enabled">"Bluetooth has been enabled"</string>
+    <string name="bluetooth_disabled">"Bluetooth has benn disabled"</string>
+    <string name="bluetooth_canceled">"Bluetooth has been calnceled"</string>
+    <string name="sem_acao">Clicou numa área sem definição</string>
+    <string name="disconected">Disconectar</string>
+    <string name="campos_vazios">Preencha todos os campos</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
